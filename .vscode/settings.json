@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "LOGICAL.C": "cpp",
+    "FACTORIAL.C": "cpp",
+    "85string_palindrome": "cpp"
+  },
+  "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe"
+}
