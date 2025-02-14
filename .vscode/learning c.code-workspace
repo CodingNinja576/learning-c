@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Learing-cpp",
+			"path": "../../Cpp/Learing-cpp"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"LOGICAL.C": "cpp",
+			"FACTORIAL.C": "cpp",
+			"85string_palindrome": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
